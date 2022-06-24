@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Niloofar Gholipour</title>
+    <link>https://niloofargholipour.github.io/publication/</link>
+      <atom:link href="https://niloofargholipour.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://niloofargholipour.github.io/images/icon_hu2a925f5c00d128def27a1ee15bbb14f6_4283_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://niloofargholipour.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Recent Advances in Energy Efficient Resource Management Techniques in Cloud Computing Environments</title>
+      <link>https://niloofargholipour.github.io/publication/gholipour-recent-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://niloofargholipour.github.io/publication/gholipour-recent-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Energy-Aware Dynamic Resource Management Technique Using Deep Q-Learning Algorithm and Joint VM and Container Consolidation Approach for Green Computing in Cloud Data Centers</title>
+      <link>https://niloofargholipour.github.io/publication/gholipour-energy-aware-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://niloofargholipour.github.io/publication/gholipour-energy-aware-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel energy-aware resource management technique using joint VM and container consolidation approach for green computing in cloud data centers</title>
+      <link>https://niloofargholipour.github.io/publication/gholipour-novel-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://niloofargholipour.github.io/publication/gholipour-novel-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

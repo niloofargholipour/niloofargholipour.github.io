@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Niloofar Gholipour</title>
+    <link>https://niloofargholipour.github.io/publication-type/6/</link>
+      <atom:link href="https://niloofargholipour.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://niloofargholipour.github.io/images/icon_hu2a925f5c00d128def27a1ee15bbb14f6_4283_512x512_fill_lanczos_center_3.png</url>
+      <title>6</title>
+      <link>https://niloofargholipour.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>An Energy-Aware Dynamic Resource Management Technique Using Deep Q-Learning Algorithm and Joint VM and Container Consolidation Approach for Green Computing in Cloud Data Centers</title>
+      <link>https://niloofargholipour.github.io/publication/gholipour-energy-aware-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://niloofargholipour.github.io/publication/gholipour-energy-aware-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
